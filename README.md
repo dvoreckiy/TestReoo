@@ -9,10 +9,7 @@ files[i].account_number;
             if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
                 try {
                     const browser = await puppeteer.connect(
-                        { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen', '--no-sandbox'],  });
-                        
-                    // Function Field
-
+                        { browserWSEndpoint: res.data.data.ws.pup
                     // #1 METAMASK LOGIN
 
             if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
