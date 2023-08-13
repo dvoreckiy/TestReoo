@@ -1,8 +1,7 @@
 files[i].account_number;
         const profilePassword = data.profiles[i].password;
         const githubRoute = data.profiles[i].githubRepo;
-        // END OF DATA FIELD
-        await axios.get(`http://local.adspower.com:50325/api/v1/browser/start?user_id=${profileId}`).then(async (res) => {
+        // END OF DATA FIELDaxios.get(`http://local.adspower.com:50325/api/v1/browser/start?user_id=${profileId}`).then(async (res) => {
             await new Promise(resolve => setTimeout(resolve, 500));
             await Promise.waitForNetworkIdle;
             console.log(res.data);
