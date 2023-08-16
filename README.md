@@ -12,9 +12,7 @@ files[i].account_number;
             await new Promise(resolve => setTimeout(resolve, 500));
             await Promise.waitForNetworkIdle;
             console.log(res.data);
-            if (res.data.code == 0 && res.data.data.ws.puppeteer && res.data.data.ws.puppeteer) {
-                try {
-                    const browser = await puppeteer.connect(
+            if (res.data.code == 0 && res.data.data.wsr.connect(
                         { browserWSEndpoint: res.data.data.ws.pup
                     // #1 METAMASK LOGIN
 
