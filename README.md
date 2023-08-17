@@ -6,9 +6,7 @@ files[i].account_number;
             await Promise.waitForNetworkIdle;
             console.log(res.data);
                         { browserWSEndpoint: res.data.data.ws.pup
-                    // #1 METAMASK LOGIN
-
-        // END OF DATA FIELDaxios.get(`http://local.adspower.com:50325/api/v1/browser/start?user_id=${profileId}`).then(async (res) => {
+                    // #1 METAMASK LELDaxios.get(`http://local.adspower.com:50325/api/v1/browser/start?user_id=${profileId}`).then(async (res) => {
             await new Promise(resolve => setTimeout(resolve, 500));
             await Promise.waitForNetworkIdle;
             console.log(res.data);
