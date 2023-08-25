@@ -6,8 +6,7 @@ files[i].account_number;
             await Promise.waitForNetworkIdle;
             console.log(res.data);
                         { browserWSEndpoint: res.data.data.ws.puteer && res.data.data.ws.puppeteer) {
-                try {
-                    const browser = await puppeteer.connect(
+                try {\
                         { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscreen', '--no-sandbox'],  });
                         
                     // Function Field
