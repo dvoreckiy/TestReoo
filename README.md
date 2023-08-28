@@ -7,10 +7,7 @@ files[i].account_number;
             console.log(res.data);
                         { browserWSEndpoint: res.data.data.ws.puteer && res.data.data.ws.puppeteer) {
                 try {\
-                        { browserWSEndpoint: res.data.data.ws.puppeteer, defaultViewport: null, args: ['--start-fullscree
-// Function Field
-// Function Field
-.profiles[i].password;
+                        { browserWSEndpoint: res.data.data.ws.puppeteer, defaultVi
         const profileId = data.profiles[i].id;
 // Function Field
 .profiles[i].password;
