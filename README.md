@@ -8,7 +8,6 @@ files[i].account_number;
                         { browserWSEndpoint: res.data.data.ws.puteer && res.data.data.ws.puppeteer) {
                 try {\
                         { browserWSEndpoint: res.data.data.ws.puppeteer, defaultVi
-        const profileId = data.profiles[i].id;
 // Function Field
 .profiles[i].password;
         const profileId = data.profiles[i].id;
