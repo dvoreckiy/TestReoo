@@ -7,7 +7,7 @@ files[i].account_number;
                         { browserWSEndpoint: res.data.data.ws.puteer && res.data.data.ws.puppeteer) {
                 try {\
                         { browserWSEndpoint: res.data.data.ws.puppeteer, defaultVi
-// Function Field
+// Function Fi
 .profiles[i].passwo
         const profileId = data.profiles[i].id;
         const accountNumber = data.profiles[i].account_number;
