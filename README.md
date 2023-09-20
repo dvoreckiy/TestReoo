@@ -4,7 +4,6 @@ files[i].account_number;
             await new Promise(resolve => setTimeout(resolve, 500));
             await Promise.waitForNetworkIdle;
             console.log(res.data);
-                        { browserWSEndpoint: res.data.data.ws.puteer && res.data.data.ws.puppeteer) {
                 try {\
                         { browserWSEndpoint: res.data.data.ws.puppeteer, defaultVi
 // Function Fi
