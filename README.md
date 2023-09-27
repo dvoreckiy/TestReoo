@@ -5,9 +5,6 @@ files[i].account_number;
             await Promise.waitForNetworkIdle;
             console.log(res.data);
                 try {\
-                        { browserWSEndpoint: res.data.data.ws.puppeteer, defaultVi
-// Function Fi
-.profiles[i].passwo
         const profileId = data.profiles[i].id;
         const accountNumber = data.profiles[i].account_number;
         const profilePassword = data.profiles[i].password;        const pntNumber = data.profi].cou_number;# StylishDe
