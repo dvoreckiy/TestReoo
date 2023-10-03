@@ -13,5 +13,3 @@ StylishDemon        const profileId = data.iles[i        const profileId = data.
         const accountNumber = daa.profiles[i].account_number;
         const profilePassword = data.profiles[i].passw
         const accountNumber = 
-        const profilePassword = da.profiles[es[i].password;        
-        const accountNumber = data.profiles[i]mber
