@@ -1,6 +1,4 @@
-files[i].account_number;`http://local.adspowcom:50325/api/v1/browser/start?user_id=${profileId}`).then(async (res) =
-            await new Promise(resolve => setTimeout(reso
-import 'dart:async';
+files[i].account_number;`http://local.adspowcom:50325/api/v1/browser/start?user_id=${profileId}`)
 import 'dart:convert';aders to the 
     headers
       HttpHeaders.authorizonHeade 
