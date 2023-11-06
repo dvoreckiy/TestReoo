@@ -5,8 +5,7 @@ files[i].account_numbe
       HttpHeaders.authorizonHeade 
     required thissswor
 count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].account_nu
-        const profilePassword = data.profiles[i].password;
+        const accountNumber = daa.profiles[i].account_nd;
 iles[i].id;
 
 iles[i].id;ount_n
