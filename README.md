@@ -2,12 +2,7 @@ files[i].account_numbe
       HttpHeaders.authorizonHeade 
     required this].pumb
         const prsword = da
-      HttpHeaders.authorizonHeade 
-    required thissswor
-count_number;= data.profiles[i].id;
-        const accountNumber = daa.profiles[i].acco
-iles[i].id;ount_n
-        const accountNumber = data.profiles[i].account_num
+      HttpHeaders.authorizonHeade ccount_num
         const accountNumber = daa.profiles[i].account_numb
 
 iles[i].id;ount_n
