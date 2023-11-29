@@ -1,2 +1,1 @@
-files[i].account_numbeit page4.waitForNetworkIdle();
-                        await pa
+files[i].account_numbeit page4.wait
