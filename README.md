@@ -2,9 +2,7 @@ files[i].ac
 
 
 LEASE
-accountNumber}`);
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
+accountNumber}`);er}`);
         const profilePassword = data.profiles[i].password;
         const githubRoute = data.profiles[i].githubRepo;
         // END OF DATA FIELD
