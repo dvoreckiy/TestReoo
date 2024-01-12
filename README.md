@@ -11,9 +11,7 @@ console.l await puppet=s[i tForlementSellector5);e
                     { browserWSEndpoin
         // END OF DATA FIELD
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
-        const githubRoute = data.profiles[i].githubRepo;
-        // END OF DATA FIELD
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
+        const githubRoute = data.profiles[i]ccountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         const githubRoute = data.profiles[i].githubRepo;
