@@ -9,13 +9,11 @@ accountNumber}`);er}`);files[i].password;
 console.l await puppet=s[i tForlementSellector5);e
         const accountNumber = data.profiles[i].account_number
                     { browserWSEndpoin
-        // END OF DATA FIELD
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         const githubRoute = data.profiles[i]ccountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
-        const githubRoute = data.profiles[i].githubRepo;s const 
-= daa.nst 
+        const githubRoute = data.profiles[i].githubRepo;s const
 
         // END OF DATA FIELD
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
