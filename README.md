@@ -7,10 +7,6 @@ accountNumber}`);er}`);files[i].password;
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         const accountNumber = data.profiles[i].account_number
 console.l await puppet=s[i tForlementSellector5);e
-        const accountNumber = data.profiles[i].account_number
-                    { browserWSEndpoin
-        console.log(`ACCOUNT NUMBER: ${accountNumber}`);
-        const githubRoute = data.profiles[i]ccountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         console.log(`ACCOUNT NUMBER: ${accountNumber}`);
         const githubRoute = data.profiles[i].githubRepo;s const
